@@ -1,14 +1,30 @@
 # Interview Prep Framework
 
+## Answer Bank Integration
+
+**The Answer Bank is your library of polished, reusable interview answers.** Interview Prep identifies which questions you'll likely face and either:
+1. Points you to existing answers in the Answer Bank
+2. Identifies gaps where you should develop new answers
+
+Over time, as your Answer Bank grows, interview prep becomes faster - you'll have polished answers ready for most common questions.
+
+---
+
 ## Prep Process Overview
 
 When Emmet says "Prep me for [Company] interview":
 
 1. **Review company research** (if available) or conduct quick research
 2. **Identify likely questions** based on role level, company stage, and challenges
-3. **Map questions to Emmet's experience** - pull relevant examples from background
-4. **Prepare questions to ask** based on company context and role
-5. **Flag potential concerns** to address proactively
+3. **Check Answer Bank** - link to existing polished answers when available
+4. **Identify gaps** - flag questions that need new answers developed
+5. **Prepare questions to ask** based on company context and role
+6. **Flag potential concerns** to address proactively
+
+**Answer Bank Integration:**
+- If polished answer exists in Answer Bank → reference it
+- If no answer exists → suggest which experience to use, recommend developing full answer
+- Over time, Answer Bank reduces prep work significantly
 
 ## Question Categories
 
@@ -35,7 +51,7 @@ When Emmet says "Prep me for [Company] interview":
 - **Action**: What you specifically did (be detailed here)
 - **Result**: Quantified outcome when possible
 
-**Emmet's strong examples to pull from:**
+**Emmet's key experiences (for Answer Bank or new answer development):**
 - Remesh Flex launch ($2.6M ARR)
 - Remesh Recruit (6x YoY growth, $1.4M ARR)
 - AI Agent (Remy) development
@@ -44,6 +60,8 @@ When Emmet says "Prep me for [Company] interview":
 - Freelance projects (CRM, prospecting tool)
 - Product internship program creation
 - Deloitte NLP product (10x customer growth)
+
+*Note: These are the core experiences to pull from when developing new answers for the Answer Bank*
 
 ### 2. Product Sense Questions
 
@@ -74,7 +92,6 @@ When Emmet says "Prep me for [Company] interview":
 - "Explain how [AI concept] works"
 - "What's your approach to [technical decision]?"
 - "How do you work with engineering teams?"
-- "How do you work with data science teams?"
 
 **Answer approach:**
 - Show technical fluency (but don't overreach)
@@ -103,11 +120,10 @@ When Emmet says "Prep me for [Company] interview":
 - Show strategic thinking (not just execution)
 - Be opinionated but flexible
 - Connect to company's specific context
-- Incorporate frameworks like Seven Powers (Hamilton Helmer) or thought leadership from Ben Thompson (Stratechery)
 
 **Emmet's strategic wins:**
 - Identified and launched new product lines (Flex, Recruit, Video)
-- Developed variable pricing model for Recruit
+- Variable pricing model for Recruit
 - Multi-language capability for global expansion
 - Self-purchase flow (first at Remesh)
 
@@ -121,7 +137,7 @@ When Emmet says "Prep me for [Company] interview":
 
 **Preparation needed:**
 - Deep company research (use company research framework)
-- Product knowledge (research user reviews and feedback if needed)
+- Product exploration (sign up, use it if possible)
 - Competitor understanding
 - Recent news/launches
 - Specific interest angle (not generic)
@@ -156,7 +172,6 @@ When Emmet says "Prep me for [Company] interview":
 - "How is product structured? How many PMs, what are their focuses?"
 - "What's the product development process like here?"
 - "How does product work with engineering and design?"
-- "Why me? What do you thinkmakes me a good fit for this role?"
 
 ### About the Product/Strategy
 - "What's on the product roadmap for the next 12 months?"
@@ -186,9 +201,7 @@ When Emmet says "Prep me for [Company] interview":
 **If raised or relevant to bring up:**
 
 ### "Why are you leaving Remesh?"
-**For startups**:"I've been there almost 5 years and built three product lines. The company's been through some changes [pending acquisition, growth slowing], and I'm ready for my next challenge. I want to be somewhere earlier in the growth curve where I can have even more impact on product direction."
-**For big tech**:"I've been at Remesh for almost 5 years and have taken products from 0 to 1 multiple times. Now I want to work on products at real scale. I want to see how the best companies in the world approach product development and have resources to build things properly."
-
+"I've been there almost 5 years and built three product lines. The company's been through some changes [acquisition], and I'm ready for my next challenge. I want to be somewhere earlier in the growth curve where I can have even more impact on product direction."
 
 ### "Why are you looking at [smaller company / bigger company]?"
 **For startups**: "I want to build AI products at a company solving a problem I care about. I thrive in ambiguity and want to apply my 0-to-1 skills at a place that moves fast."
@@ -219,12 +232,12 @@ When prepping for a specific company interview:
 ### Likely Questions
 
 **Behavioral:**
-1. [Question] - *Suggested answer using [specific Emmet example]*
-2. [Question] - *Suggested answer using [specific Emmet example]*
+1. [Question] - *Use Answer Bank: [Answer Title]* OR *Develop new answer using [specific experience]*
+2. [Question] - *Use Answer Bank: [Answer Title]* OR *Develop new answer using [specific experience]*
 [3-5 questions]
 
 **Product Sense:**
-1. [Question] - *Approach outline with key points*
+1. [Question] - *Key points to emphasize / Use Answer Bank if applicable*
 [2-3 questions]
 
 **Technical/AI:**
@@ -234,6 +247,9 @@ When prepping for a specific company interview:
 **Company-Specific:**
 1. "Why [Company]?" - *Specific angle based on research*
 2. "What do you know about our product?" - *Key points to hit*
+
+**Answers to Develop:**
+[List any questions above that don't have Answer Bank coverage and should be developed]
 
 ---
 
@@ -281,17 +297,15 @@ When prepping for a specific company interview:
 **Behavioral:**
 
 1. **"Tell me about a time you built a product from 0 to 1"**
-   - Use Remesh Flex example: Launched second product line, drove $2.6M in new ARR
-   - Or Remesh Recruit: First self-purchase flow, integrated with external panel, 6x YoY growth
-   - Emphasize: defining scope, making tradeoffs, driving cross-functional execution
+   - *Use Answer Bank: "Building Remesh Flex 0-to-1"* OR *Use Answer Bank: "Launching Remesh Recruit"*
+   - Both cover: defining scope, making tradeoffs, driving cross-functional execution
 
 2. **"How do you prioritize when everything feels important?"**
-   - Framework: impact vs effort, tie to business goals
-   - Example: Remesh roadmap decisions balancing new features vs new product lines
-   - Emphasize: data-driven, user-focused, clear communication of tradeoffs
+   - *Develop new answer* - Use Remesh roadmap decisions, balancing new features vs new product lines
+   - Framework: impact vs effort, tie to business goals, data-driven
 
 3. **"Tell me about a time you had to convince stakeholders of a decision they disagreed with"**
-   - Use Remesh Recruit variable pricing model or self-purchase flow decision
+   - *Develop new answer* - Use Remesh Recruit variable pricing model or self-purchase flow decision
    - Emphasize: data to support POV, understanding their concerns, finding alignment
 
 **Product Sense:**
@@ -327,6 +341,10 @@ When prepping for a specific company interview:
    - Differentiation: custom LLM fine-tuning, multi-modal (not just text)
    - Recent launch: real-time research capability
    - Competitor landscape: Dovetail (design research), Qualtrics (surveys), traditional consulting
+
+**Answers to Develop:**
+- Prioritization framework question (doesn't have polished answer yet)
+- Stakeholder disagreement example (should develop Recruit pricing story)
 
 ---
 
