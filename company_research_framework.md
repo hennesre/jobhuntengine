@@ -4,14 +4,14 @@
 
 ### 1. Company Overview
 **What to capture:**
-- What they do (product/service in 1-2 sentences)
+- What they do (product/service in ~1 sentences)
 - Business model (B2B, B2C, marketplace, etc.)
 - Founded date and founders (brief background if notable)
 - Headquarters and team size
 - Key customers or market focus
 
 **Output format:**
-Brief paragraph hitting these points. Bold the business model and key metrics.
+1-2 sentences hitting these points. Bold the business model and key metrics.
 
 ### 2. Funding & Growth
 **What to capture:**
@@ -23,7 +23,7 @@ Brief paragraph hitting these points. Bold the business model and key metrics.
 - Runway estimate if calculable
 
 **Output format:**
-Bullet points with key metrics bolded. Flag if funding is stale or concerning.
+3-4 Bullet points with key metrics bolded. Flag if funding is stale or concerning.
 
 ### 3. Product & Technology
 **What to capture:**
@@ -34,7 +34,7 @@ Bullet points with key metrics bolded. Flag if funding is stale or concerning.
 - Recent product launches or roadmap signals
 
 **Output format:**
-Paragraph on product, then bullets for tech/AI details. Bold AI-related items.
+1-2 sentences on product, then bullets for tech/AI details. Bold AI-related items.
 
 ### 4. Market Position
 **What to capture:**
@@ -57,7 +57,7 @@ Brief assessment with competitor names bolded.
 - Remote/hybrid/in-person policy
 
 **Output format:**
-Paragraph with culture signals. Bold red or green flags.
+1-2 sentences with culture signals. Bold red or green flags.
 
 ### 6. Recent News & Momentum
 **What to capture:**
@@ -79,7 +79,7 @@ Chronological bullets with dates. Flag concerns clearly.
 - AI positioning in marketing/messaging
 
 **Output format:**
-Dedicated section since this is critical for role fit. Be specific about AI depth.
+Brief paragraph. Be specific about AI depth.
 
 ### 8. Interview Prep Insights
 **What to capture:**
@@ -89,7 +89,7 @@ Dedicated section since this is critical for role fit. Be specific about AI dept
 - Potential concerns to address proactively
 
 **Output format:**
-Bullet list of topics and angles.
+3-4 Bullet list of topics and angles.
 
 ### 9. Red Flags & Concerns
 **What to capture:**
@@ -109,7 +109,7 @@ Honest assessment. If no major concerns, say so. If concerns exist, be direct.
 - Key open questions to address in interviews
 
 **Output format:**
-Brief summary with clear recommendation.
+Brief 1-2 sentence summary with clear recommendation.
 
 ## Research Sources Priority
 1. Company website (product pages, about, blog, careers)
@@ -176,7 +176,7 @@ Brief summary with clear recommendation.
 # Fictive AI Research
 
 ## Overview
-Fictive builds AI-powered market research tools for enterprise teams. Their core product uses LLMs to analyze qualitative data at scale, replacing manual research processes. **B2B SaaS model** with annual contracts, serving Fortune 500 companies in tech, finance, and healthcare. Founded in 2021 by former Google Research scientists. **~80 employees**, based in San Francisco with remote-friendly policy.
+Fictive is an AI-powered market research tool that uses LLMs to analyze qualitative data at scale. **B2B SaaS model** with annual contracts, serving Fortune 500 companies in tech, finance, and healthcare. Founded in 2021 by former Google Research scientists. **~80 employees**, based in San Francisco with remote-friendly policy.
 
 ## Funding & Growth
 - **Latest Round**: Series B, **$50M** led by Andreessen Horowitz (Sept 2024)
@@ -186,7 +186,7 @@ Fictive builds AI-powered market research tools for enterprise teams. Their core
 - **Runway**: ~2.5 years at current burn (estimate based on raise size and team growth)
 
 ## Product & Technology
-Core product is an AI research assistant that ingests documents, conducts interviews, and generates insights. Differentiation is in their proprietary LLM fine-tuning for research contexts and multi-modal analysis (text, audio, video). Recently launched real-time research capabilities.
+Core product is an AI research assistant that ingests documents, conducts interviews, and generates insights. Differentiation is in their proprietary LLM fine-tuning. Recently launched real-time research capabilities.
 
 **Tech/AI Details:**
 - Custom LLM orchestration layer (not just OpenAI API calls)
@@ -195,7 +195,7 @@ Core product is an AI research assistant that ingests documents, conducts interv
 - Integrate with Slack, Notion, Google Workspace
 
 ## Market Position
-Market research industry is $80B+ globally, with growing demand for faster insights. Competing against traditional firms (McKinsey, BCG) and newer AI tools (Dovetail, UserTesting).
+Market research industry is $80B+ globally. Competing against traditional firms (McKinsey, BCG) and newer AI tools (Dovetail, UserTesting).
 
 **Competitors**: Dovetail (design research), Qualtrics (surveys), traditional consulting firms
 
@@ -215,7 +215,7 @@ Team is heavily technical (60% engineering/data science). Founders both have PhD
 Strong momentum. Press coverage is positive and frequent.
 
 ## AI Strategy
-AI is core to the product, not a feature. Building proprietary models and orchestration infrastructure. Heavy investment in ML team (25+ ML engineers and researchers). Using cutting-edge approaches (RAG, fine-tuning, agent frameworks). This is a genuine AI-first company, not AI-washing a traditional product.
+AI is core to the product. Building proprietary models and orchestration infrastructure. Heavy investment in ML team (25+ ML engineers and researchers). Using cutting-edge approaches (RAG, fine-tuning, agent frameworks). 
 
 ## Interview Prep Insights
 - Prepare to discuss 0-to-1 product building (they're expanding product lines)
@@ -224,7 +224,7 @@ AI is core to the product, not a feature. Building proprietary models and orches
 - Angle: "Fascinated by how you're unbundling traditional research with AI. At Remesh, I built similar AI research tools and saw the market pull firsthand."
 
 ## Red Flags & Concerns
-None major. Funding is strong, team is high-quality, market is real. Minor concern: competitive market with other well-funded AI research tools. Need to understand their defensibility beyond "we have smart people."
+None major. Funding is strong, team is high-quality, market is real. Minor concern: competitive market with other well-funded AI research tools. Need to understand their defensibility.
 
 ## Bottom Line
 Strong fit. AI-first product, well-funded, growing fast, remote-friendly. Role would be expanding into new verticals or product lines. High excitement level.
