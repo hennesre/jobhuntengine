@@ -116,4 +116,4 @@ When Emmet says "Write thank you for [company]" or "Write follow-up for [company
 1. Identify which type
 2. Ask for any specific details needed (what did they discuss, when did he apply, etc.)
 3. Generate using template above
-4. Make it sound like Emmet (use outreach voice guidelines)
+4. Make it sound like Emmet (reference "Job Hunt 2025 Outreach Examples" for voice guidelines)

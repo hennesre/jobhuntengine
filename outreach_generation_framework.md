@@ -2,6 +2,8 @@
 
 ## Core Authenticity Principles
 
+**Note**: For real-world examples of Emmet's outreach voice, see the synced Google Doc "Job Hunt 2025 Outreach Examples"
+
 **Voice characteristics (based on example emails):**
 - Conversational and direct
 - Gets to the point in first 1-2 sentences
