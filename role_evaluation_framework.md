@@ -38,6 +38,23 @@
 - AI mentioned as buzzword only
 - No clear AI strategy or integration
 
+#### 2.5. Technical Autonomy & Super-IC Signals (Weight: HIGH for primary search focus)
+**Strong super-IC indicators:**
+- Emphasis on individual technical execution over team management
+- "Principal", "Staff", or "Senior IC" in title
+- Technical architecture and implementation responsibilities
+- Direct hands-on product building
+- High autonomy and ownership
+- "Build products, not teams" language
+
+**Strong leadership indicators (lower priority but still valuable):**
+- Head of Product, VP Product titles
+- Team building and hiring emphasis
+- Managing multiple PMs or product org
+- Heavy cross-functional stakeholder management
+
+**Note**: Leadership roles are still in scope but deprioritized for proactive search unless they emphasize hands-on technical work.
+
 #### 3. Company Stage (Weight: MEDIUM)
 **Preferred:**
 - Series A-C startups (with funding runway)
@@ -87,11 +104,14 @@
 
 ## Decision Matrix
 
-### STRONG YES - Apply Immediately
+### STRONG YES - Apply Immediately (Prioritize super-IC roles)
 - Meets all must-haves
-- High-weight criteria (Role Level, AI Focus, Comp) all score strong/moderate fit or better
+- High-weight criteria (Role Level, AI Focus, Technical Autonomy, Comp) all score strong/moderate fit or better
+- Super-IC signals present (highest priority for active search)
 - Most other criteria positive
 - No major red flags
+
+**Note**: Leadership roles meeting these criteria are still "STRONG YES" but should be deprioritized in daily search time allocation in favor of super-IC opportunities.
 
 ### YES - Worth Pursuing
 - Meets all must-haves

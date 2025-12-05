@@ -15,6 +15,27 @@ Answer Development creates polished, detailed responses to specific interview qu
 
 ## Answer Frameworks by Question Type
 
+### Super-IC vs Leadership Context
+
+**For super-IC roles, emphasize:**
+- Individual technical execution and ownership
+- Deep hands-on work with AI/LLMs (Remy's architecture, tool usage)
+- Autonomous delivery without large teams
+- Technical problem-solving and architecture decisions
+- Direct product building and prototyping
+
+**For leadership roles, maintain balance:**
+- Strategic thinking alongside execution examples
+- Cross-functional leadership and stakeholder management
+- Team building and people management where relevant
+- Business impact through both personal execution and team leverage
+
+**Reframing leadership experiences for super-IC:**
+- Focus on what YOU personally built/designed/decided
+- Minimize "we" language, emphasize "I"
+- Lead with technical decisions over people management
+- Example: Instead of "I led a team of 5 engineers," say "I designed the architecture and worked closely with 5 engineers to implement"
+
 ### Behavioral Questions (STAR Method)
 
 **Structure:**
@@ -91,6 +112,18 @@ Answer Development creates polished, detailed responses to specific interview qu
 - Focus on what others did
 - No clear outcome
 - Corporate jargon
+
+**Adjusting for role type:**
+
+For super-IC roles:
+- Lead with Remy technical architecture, AI tool usage, freelance building
+- De-emphasize team management, hiring, organizational leadership
+- Frame accomplishments around autonomous delivery
+
+For leadership roles:
+- Include full range of experiences
+- Balance technical depth with cross-functional leadership
+- Emphasize both personal execution and team leverage
 
 ## Answer Bank Structure
 

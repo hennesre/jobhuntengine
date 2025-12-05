@@ -29,6 +29,19 @@
 - Clear ask
 - That's it. 4-5 sentences or 1-2 short paragraphs max.
 
+**Adjusting emphasis by role type:**
+
+For super-IC roles:
+- Lead with technical execution (Remy architecture, AI tool usage)
+- Emphasize autonomous delivery and individual impact
+- Highlight hands-on building and prototyping
+- De-emphasize team leadership and people management
+
+For leadership roles:
+- Balance technical depth with cross-functional leadership
+- Include business impact through both personal and team execution
+- Maintain strategic thinking alongside hands-on examples
+
 ---
 
 ## Outreach Types
@@ -50,7 +63,7 @@ Hi [Name],
 
 My name is Emmet Hennessy. I came across your [Role Title] opening at [Company] and wanted to reach out directly. [One sentence about what interests you about the company/role].
 
-I'm currently a Lead PM at Remesh.ai, where I've launched multiple new product lines that have significantly boosted revenue. [Optional: one more relevant accomplishment if highly relevant to their company/product].
+I'm currently a Staff PM at Remesh.ai, where I've launched multiple new product lines that have significantly boosted revenue. [Optional: one more relevant accomplishment if highly relevant to their company/product].
 
 Is this position still open? If so, I'd love to learn more about [specific aspect of role or company].
 
@@ -76,11 +89,37 @@ Hi [Name],
 
 My name is Emmet. I came across [Company] and [something specific about their product or approach] really caught my attention. [Why it's interesting to you - reference to trend, market, or technical approach].
 
-I'm currently a Lead PM at Remesh, where I've built AI products from 0 to 1. Before that I was at Deloitte working on NLP-powered tools. Recently I've been building full-stack apps on the side using Replit.
+I'm currently a Staff PM at Remesh, where I've built AI products from 0 to 1. Before that I was at Deloitte working on NLP-powered tools. Recently I've been building full-stack apps on the side using Replit.
 
 I'm actively looking for my next opportunity. If you're hiring for product roles, I'd love to learn more about what you're building and see if there's a fit.
 
 Have a great rest of your week!
+
+---
+
+### 2.5. Cold LinkedIn to Hiring Manager (Super-IC Role)
+
+**Purpose**: Reaching out for Staff/Principal PM or high-autonomy IC role
+
+**Structure**:
+- Opening: State the role and what caught your attention
+- Middle: Technical execution and AI fluency
+- Close: Ask to learn more
+
+**Length**: 3-4 short sentences, ~100 words
+
+**Example**:
+
+Hi [Name],
+
+I came across your [Staff/Principal PM] opening at [Company]. [Something specific about their AI product or technical approach] caught my attention.
+
+I'm currently a Staff PM at Remesh where I built Remy, our AI agent with custom LangChain orchestration for multi-step reasoning. I've also been extensively using AI coding tools like Replit and Cursor for rapid prototyping, which has given me deep fluency in what's technically possible with LLMs.
+
+I thrive in autonomous, high-ambiguity environments. Would love to learn more about what you're building.
+
+Best,
+Emmet
 
 ---
 
@@ -101,7 +140,7 @@ My name is Emmet. I got your email from nextplay. I saw you're interested in [th
 
 [1-2 sentences about relevant thought or perspective that shows you've thought about this space. Could reference a podcast, article, trend you've noticed, or parallel to your experience.]
 
-I'm currently a Lead PM at Remesh, but I'm actively looking for my next opportunity. [Brief relevant background if helpful for context].
+I'm currently a Staff PM at Remesh, but I'm actively looking for my next opportunity. [Brief relevant background if helpful for context].
 
 If you're interested at all, could you tell me a little more about [specific question about what they're working on]?
 
@@ -126,7 +165,7 @@ Hi [Name],
 
 I saw your post about the [Role Title] position at [Company]. I'm interested in learning more.
 
-I'm currently a Lead PM at Remesh where I've launched multiple AI products from 0 to 1. [One more relevant point if needed].
+I'm currently a Staff PM at Remesh where I've launched multiple AI products from 0 to 1. [One more relevant point if needed].
 
 What are the next steps to apply or learn more about the role?
 
@@ -178,7 +217,7 @@ Hi [Name],
 
 Thanks for agreeing to connect! [Mutual connection] mentioned you might be open to chatting about [Company/opportunities].
 
-I'm currently a Lead PM at Remesh where I've built AI products from 0 to 1. [One sentence about why their company interests you - be specific].
+I'm currently a Staff PM at Remesh where I've built AI products from 0 to 1. [One sentence about why their company interests you - be specific].
 
 Would you be open to a quick call to learn more about what you're building? I'm flexible on timing.
 
@@ -233,7 +272,7 @@ Emmet Hennessy
 
 I'm interested in [Company] because [specific reason about their product/market/approach]. [Optional: one more sentence connecting to your experience or perspective].
 
-I'm currently a Lead PM at Remesh where I've launched multiple AI products from 0 to 1, including our most recent AI agent product built on a custom LLM orchestration layer. I'm looking for my next opportunity to build AI products at scale, and [Company]'s approach to [specific thing] aligns well with what I want to work on next.
+I'm currently a Staff PM at Remesh where I've launched multiple AI products from 0 to 1, including our most recent AI agent product built on a custom LLM orchestration layer. I'm looking for my next opportunity to build AI products at scale, and [Company]'s approach to [specific thing] aligns well with what I want to work on next.
 
 ---
 
@@ -305,7 +344,7 @@ Hi [Name],
 
 Thanks for reaching out about the [Role] opportunity at [Company]. I'm definitely interested in learning more.
 
-A bit about me: I'm currently a Lead PM at Remesh where I've built multiple AI products from 0 to 1. [One more relevant point if particularly aligned with their role].
+A bit about me: I'm currently a Staff PM at Remesh where I've built multiple AI products from 0 to 1. [One more relevant point if particularly aligned with their role].
 
 What are the next steps? Happy to jump on a call.
 

@@ -26,6 +26,37 @@ When Emmet says "Prep me for [Company] interview":
 - If no answer exists → suggest which experience to use, recommend developing full answer
 - Over time, Answer Bank reduces prep work significantly
 
+## Role-Specific Emphasis
+
+### For Super-IC Roles
+
+**Key points to emphasize:**
+- Deep hands-on experience building AI agents (Remy's custom orchestration layer)
+- Extensive use of AI coding tools (Replit, Cursor, Claude) for prototyping and understanding technical possibilities
+- Autonomous execution and individual ownership
+- Technical fluency enabling effective engineering collaboration
+- Examples of building without large teams
+
+**Experiences to prioritize:**
+1. Remy technical architecture and implementation decisions
+2. Freelance projects (autonomous end-to-end delivery)
+3. AI tool usage for rapid prototyping
+4. Individual contributor execution at Remesh
+
+**De-emphasize:**
+- Team building and hiring (unless specifically asked)
+- Managing reports or organizational structure
+- Heavy stakeholder management narratives
+
+### For Leadership Roles
+
+**Maintain existing balanced approach:**
+- Strategic thinking and vision
+- Cross-functional leadership
+- 0-to-1 launches with business impact
+- Team building where relevant
+- Technical depth alongside people management
+
 ## Question Categories
 
 ### 1. Behavioral Questions
@@ -255,10 +286,21 @@ When prepping for a specific company interview:
 
 ### Key Points to Emphasize
 
-**For this specific company/role:**
-- [Point 1 based on their needs]
-- [Point 2 based on their stage]
-- [Point 3 based on their challenges]
+**For this specific company/role (adjust by type):**
+
+If super-IC role:
+- [Remy technical depth / AI tool fluency]
+- [Autonomous execution examples]
+- [Individual technical ownership]
+
+If leadership role:
+- [Strategic impact and vision]
+- [Cross-functional leadership]
+- [Balance of execution and team leverage]
+
+**Company-specific:**
+- [Point based on their needs]
+- [Point based on their stage]
 
 ---
 
